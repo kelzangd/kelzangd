@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kelzang Dorji</h1>
+<h1 align="center">Hi 👋, I'm KELZANG DROJI</h1>
 <h3 align="center">Electronics & Communication Engineering Student | Tech Enthusiast</h3>
 
 ---
@@ -40,7 +40,6 @@
 ---
 
 ### 🔥 Current Projects
-- 🚗 Vehicle GPS Tracking System
 - 🌐 Web Development Projects
 - 📡 Networking & Starlink Installation Work
 
