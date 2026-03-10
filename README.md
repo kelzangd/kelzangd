@@ -16,7 +16,7 @@
 
 ---
 
-# 👋 About Me
+#  ABOUT ME
 
 * 🎓 Final Year **Electronics & Communication Engineering Student**
 * 🌍 Based in **Bhutan**
@@ -33,19 +33,6 @@
 </p>
 
 ---
-
-# 🧠 Developer Terminal
-
-```bash
-> user: kelzangdorji
-> education: Electronics & Communication Engineering
-> focus: Web Development | Networking | IoT
-> current_project: DZONGKHA-CHATBOT
-> goal: Build real-world technology solutions
-```
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -59,14 +46,6 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelzangd&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kelzangd&theme=matrix&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
