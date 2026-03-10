@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Electronics+Engineer;Web+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm KELZANG DROJI</h1>
 <h3 align="center">Electronics & Communication Engineering Student | Tech Enthusiast</h3>
 
@@ -46,5 +49,4 @@
 ---
 
 ⭐ *Thanks for visiting my profile!*
-![](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Electronics+Engineer;Web+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
+
