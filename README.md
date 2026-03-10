@@ -20,7 +20,7 @@
 
 * 🎓 Final Year **Electronics & Communication Engineering Student**
 * 🌍 Based in **Bhutan**
-* 🚗 Developing a **Vehicle GPS Tracking System**
+* 🚗 Developing a **Dzongkha-chatbot**
 * 🌐 Learning **Web Development & Backend Systems**
 * 📡 Interested in **Networking, IoT, and Starlink Technology**
 
