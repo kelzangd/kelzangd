@@ -1,67 +1,80 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,100:2c5364&text=Kelzang%20Dorji&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=00FF9C&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,12,20&text=Kelzang%20Dorji&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h2 align="center">👨‍💻 Electronics & Communication Engineer | Tech Builder</h2>
+<h3 align="center">Electronics and Communication Engineering Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Engineering+Student+from+Bhutan;Web+Development+%7C+Networking+%7C+IoT;Building+Real+World+Projects" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kelzangd&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/kelzangd?style=for-the-badge&color=00ff9c"/>
-<img src="https://img.shields.io/github/stars/kelzangd?style=for-the-badge&color=00ff9c"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Engineering+Student+from+Bhutan;Interested+in+Networking+and+Web+Technologies;Currently+Developing+a+Dzongkha+Chatbot;Learning+by+Building+Real+Projects"/>
 </p>
 
 ---
 
-#  ABOUT ME
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-* 🎓 Final Year **Electronics & Communication Engineering Student**
-* 🌍 Based in **Bhutan**
-* 🚗 Developing a **Dzongkha-chatbot**
-* 🌐 Learning **Web Development & Backend Systems**
-* 📡 Interested in **Networking, IoT, and Starlink Technology**
+## About Me
+
+I am a final year Electronics and Communication Engineering student from Bhutan.
+My interests focus on networking systems, web development, and building practical engineering projects.
+
+I enjoy experimenting with new technologies and turning ideas into small working systems.
+
+Currently, I am developing a **Dzongkha chatbot** as part of my final year project.
 
 ---
 
-# ⚡ Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## Current Focus
+
+• Developing a Dzongkha language chatbot
+• Learning backend web development
+• Exploring networking infrastructure
+• Working on small technical projects
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## Technical Skills
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux,react,nodejs"/>
 </p>
 
 ---
-# 📊 GitHub Statistics
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## Selected Projects
+
+| Project                  | Description                                                                    |
+| ------------------------ | ------------------------------------------------------------------------------ |
+| Dzongkha Chatbot         | Final year project for developing a chatbot capable of interacting in Dzongkha |
+| Web Development Projects | Personal projects built while learning full-stack development                  |
+| Networking Systems       | Work involving WiFi networks, CCTV installation, and configuration             |
+| Starlink Installation    | Experience with satellite internet setup and networking                        |
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kelzangd&show_icons=true&theme=tokyonight&border_radius=10"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kelzangd&theme=tokyonight&border_radius=10"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kelzangd&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kelzangd&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelzangd&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Activity Graph
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kelzangd&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🚀 Projects
-
-| Project                    | Description                       |
-| -------------------------- | --------------------------------- |
-| 🚗 DZONGKHA-CHATBOT        | FINALYEAR PROJECT |
-| 🌐 Web Projects            | Learning full stack development   |
-| 📡 Networking Systems      | CCTV, WiFi, networking setup      |
-| 🛰 Starlink Installation   | Satellite internet networking     |
-
----
-
-# 🌐 Connect With Me
+## Contact
 
 <p align="center">
 <a href="https://github.com/kelzangd">
@@ -72,9 +85,9 @@
 ---
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216656973-9cc8c6c2-0a4b-4a9a-9f48-34bbd0a0a59b.gif" width="100%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 </p>
 
 <p align="center">
-⭐ *Engineering solutions through technology and innovation*
+<em>Building practical technology solutions and continuously improving engineering skills.</em>
 </p>
