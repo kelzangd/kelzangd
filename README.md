@@ -54,7 +54,7 @@
 
 | Project                    | Description                       |
 | -------------------------- | --------------------------------- |
-| 🚗 Vehicle Tracking System | DZONGKHA-CHATBOT |
+| 🚗 DZONGKHA-CHATBOT        | FINALYEAR PROJECT |
 | 🌐 Web Projects            | Learning full stack development   |
 | 📡 Networking Systems      | CCTV, WiFi, networking setup      |
 | 🛰 Starlink Installation   | Satellite internet networking     |
