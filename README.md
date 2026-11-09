@@ -1,93 +1,120 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,12,20&text=Kelzang%20Dorji&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
-</p>
 
-<h3 align="center">Electronics and Communication Engineering Student</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Engineering+Student+from+Bhutan;Interested+in+Networking+and+Web+Technologies;Currently+Developing+a+Dzongkha+Chatbot;Learning+by+Building+Real+Projects"/>
-</p>
+# Kelzang Dorji
 
----
+**Electronics & Communication Engineering Graduate**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+Technology Professional at **BhutanCloud & WONS**
 
-## About Me
+`Network Infrastructure` · `Software Development` · `AI Solutions`
 
-I am a final year Electronics and Communication Engineering student from Bhutan.
-My interests focus on networking systems, web development, and building practical engineering projects.
+[GitHub](https://github.com/kelzangd) · Bhutan
 
-I enjoy experimenting with new technologies and turning ideas into small working systems.
-
-Currently, I am developing a **Dzongkha chatbot** as part of my final year project.
+</div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+## Profile
 
-## Current Focus
+Electronics and Communication Engineering graduate and technology professional currently working with **BhutanCloud and WONS**.
 
-• Developing a Dzongkha language chatbot
-• Learning backend web development
-• Exploring networking infrastructure
-• Working on small technical projects
+My technical background combines networking infrastructure, connectivity solutions, and software development. I am particularly interested in developing reliable systems, exploring modern web technologies, and applying artificial intelligence to practical challenges.
 
----
+My work and projects span network configuration, infrastructure deployment, web applications, and language technology.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-## Technical Skills
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux,react,nodejs"/>
-</p>
+I approach technology with an emphasis on functionality, reliability, and continuous improvement.
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+## Technical Expertise
 
-## Selected Projects
+**Software Engineering**
+- Frontend development and responsive web interfaces
+- Backend development and REST API integration
+- Web application architecture
+- Version control and collaborative development
 
-| Project                  | Description                                                                    |
-| ------------------------ | ------------------------------------------------------------------------------ |
-| Dzongkha Chatbot         | Final year project for developing a chatbot capable of interacting in Dzongkha |
-| Web Development Projects | Personal projects built while learning full-stack development                  |
-| Networking Systems       | Work involving WiFi networks, CCTV installation, and configuration             |
-| Starlink Installation    | Experience with satellite internet setup and networking                        |
+**Networking & Infrastructure**
+- Network installation and configuration
+- Wireless network infrastructure
+- Network troubleshooting and connectivity
+- CCTV installation and system configuration
+- Satellite internet installation and setup
 
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-## GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kelzangd&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kelzangd&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelzangd&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+**Emerging Technologies**
+- Conversational AI
+- Natural Language Processing
+- Dzongkha language technology
+- Cloud and infrastructure technologies
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+## Technology Stack
 
-## Contact
-
-<p align="center">
-<a href="https://github.com/kelzangd">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| Programming | Python, JavaScript |
+| Frontend | HTML5, CSS3, React |
+| Backend | Node.js |
+| Development | Git, GitHub, VS Code |
+| Operating Systems | Linux |
+| Infrastructure | Computer Networks, CCTV, Starlink |
 
 ---
 
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
-</p>
+## Projects & Technical Work
 
-<p align="center">
-<em>Building practical technology solutions and continuously improving engineering skills.</em>
-</p>
+### DrukBook
+**Business Booking & Appointment Management Platform**
+
+A web application designed to simplify appointment scheduling and business operations for service providers in Bhutan.
+
+The platform focuses on providing accessible booking experiences while helping businesses manage customer appointments more efficiently.
+
+`Web Development` `Booking Systems` `Application Design`
+
+### Dzongkha Conversational AI
+**Natural Language Processing**
+
+An engineering project exploring conversational AI for the Dzongkha language.
+
+The project focuses on language interaction and the application of natural language processing to Bhutanese digital technology.
+
+`Python` `NLP` `Conversational AI`
+
+### Network Infrastructure & Connectivity
+**Practical Engineering Work**
+
+Technical experience involving the deployment, configuration, and troubleshooting of network and connectivity systems.
+
+Areas include wireless networking, CCTV systems, and satellite internet connectivity.
+
+`Networking` `Infrastructure` `Starlink`
+
+---
+
+## Current Technical Interests
+
+- Backend systems and API architecture
+- Cloud infrastructure and networking
+- Applied artificial intelligence
+- Full-stack web development
+- System reliability and performance
+
+
+---
+
+## Professional Connections
+
+I welcome opportunities to connect and exchange ideas with professionals working in software engineering, networking, cloud infrastructure, and applied AI.
+
+**GitHub:** [github.com/kelzangd](https://github.com/kelzangd)
+
+---
+
+<div align="center">
+
+<sub>Kelzang Dorji | Bhutan</sub>
+
+</div>
